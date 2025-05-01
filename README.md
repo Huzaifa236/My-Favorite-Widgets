@@ -1,6 +1,6 @@
-# my_fav_widgets
+# My-Favorite-Widgets
 
-A new Flutter project.
+This Flutter project showcases a collection of my favorite widgets.
 
 ## Getting Started
 
