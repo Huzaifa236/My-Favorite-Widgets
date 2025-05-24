@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_fav_widgets/my_action_bubble.dart';
 import 'package:my_fav_widgets/my_animated_text.dart';
 import 'package:my_fav_widgets/my_confetti.dart';
 import 'package:my_fav_widgets/my_pinput.dart';
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: MyAnimatedText(),
+      home: MyActionBubble(),
     );
   }
 }
