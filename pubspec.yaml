@@ -46,6 +46,7 @@ dependencies:
   tutorial_coach_mark: ^1.3.0
   flutter_credit_card: ^4.1.0
   just_audio: ^0.10.4
+  share_plus: ^11.0.0
 
 dev_dependencies:
   flutter_test:
