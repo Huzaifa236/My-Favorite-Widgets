@@ -51,6 +51,7 @@ dependencies:
   battery_plus: ^6.2.2
   mic_stream_recorder: ^1.1.2
   flutter_blurhash: ^0.9.1
+  maps_toolkit: ^3.1.0
 
 dev_dependencies:
   flutter_test:
