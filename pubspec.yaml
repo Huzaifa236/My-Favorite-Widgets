@@ -57,6 +57,7 @@ dependencies:
   connectivity_plus: ^6.1.5
   beamer: ^1.7.0
   flutter_bicubic_resize: ^1.4.0
+  flutter_profile_mcp 1.0.8 
 
 dev_dependencies:
   flutter_test:
